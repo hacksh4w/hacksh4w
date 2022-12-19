@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacksh4w&label=Profile%20views&color=0e75b6&style=flat" alt="hacksh4w" /> </p>
 
-- 🌱 I’m currently learning **React, Mongoose.**
+- 🌱 I’m currently learning **Backedn & Blockchain development**
 
 - 👯 I’m looking to collaborate on **Exciting Projects!**
 
