@@ -10,7 +10,8 @@
 - 💬 Ask me about **Development, Notion, Person of Interest**
 
 - 📫 How to reach me **mrinalsnair@gmail.com**
-<!--- 📄 [My Resume](https://docs.google.com/document/d/1gYVxpyvPiQcyJmCz_36uuEDMFuv46QmNitgEp3GtTkk/edit?usp=sharing) -->
+  
+- 📄 [My Resume](https://flowcv.com/resume/a2631l13k5)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mrinalini-nair-ani/](https://www.linkedin.com/in/mrinalini-nair-ani/)
 
