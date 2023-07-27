@@ -14,7 +14,7 @@
   
 - 📄 [My Resume](https://flowcv.com/resume/a2631l13k5)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mrinalini-nair-ani/](https://www.linkedin.com/in/mrinalini-nair-ani/)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mrinalini-nair-ani/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
