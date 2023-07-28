@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mrinalini Nair Ani</h1>
+<h1 align="center">Hi 👋, I'm Mrinalini Nair Ani.</h1>
 <h3 align="center">A passionate full stack developer on the eternal search to sate their curiosity</h3>
 <p  align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc0YzVkaXllNWpqdmNvaWwwZHpsbnJpZ2FydTI4bmt4OGJrMWNkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PpVjpSOjZDn9lfPE2L/giphy.gif"> </p>
 
