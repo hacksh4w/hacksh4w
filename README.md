@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend & Blockchain development**
 - 👯 I’m looking to collaborate on **Exciting Projects!**
-- 💬 Ask me about **Development, Notion, Person of Interest**
+- 💬 Ask me about **Forms, Typescript & Person of Interest**
 - 📫 How to reach me **mrinalsnair@gmail.com**
 - 📄 [My Resume](https://flowcv.com/resume/a2631l13k5)
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mrinalini-nair-ani/)
