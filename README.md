@@ -11,7 +11,8 @@
 - 👯 I’m looking to collaborate on **Exciting Projects!**
 - 💬 Ask me about **Forms, Typescript & Person of Interest**
 - 📫 How to reach me **mrinalsnair@gmail.com**
-- 📄 [My Resume](https://flowcv.com/resume/a2631l13k5)
+- 📄 [My Resume](https://github.com/hacksh4w/hacksh4w/files/12425859/Resume.-.Mrinalini.Nair.Ani.pdf)
+
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mrinalini-nair-ani/)
 
 <h2 align="left">Connect with me:</h2>
