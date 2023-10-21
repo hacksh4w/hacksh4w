@@ -11,7 +11,8 @@
 - 👯 I’m looking to collaborate on **Exciting Projects!**
 - 💬 Ask me about **Forms, Typescript & Person of Interest**
 - 📫 How to reach me **mrinalsnair@gmail.com**
-- 📄 [My Resume](https://github.com/hacksh4w/hacksh4w/files/12425859/Resume.-.Mrinalini.Nair.Ani.pdf)
+
+- 📄 [My Resume](https://github.com/hacksh4w/hacksh4w/files/13059774/Resume.-.Mrinalini.Nair.Ani.pdf)
 
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mrinalini-nair-ani/)
 
@@ -28,7 +29,8 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&log[Resume - Mrinalini Nair Ani.pdf](https://github.com/hacksh4w/hacksh4w/files/13059773/Resume.-.Mrinalini.Nair.Ani.pdf)
+oColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
