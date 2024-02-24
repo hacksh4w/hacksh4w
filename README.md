@@ -7,7 +7,7 @@
 
 <h2 align="left"> What I'm Upto These Days </h2>
 
-- 🌱 I’m currently learning **Backend & Blockchain development**
+- 🌱 I’m currently learning **Backend Development!**
 - 👯 I’m looking to collaborate on **Exciting Projects!**
 - 💬 Ask me about **Forms, Typescript & Person of Interest**
 - 📫 How to reach me **mrinalsnair@gmail.com**
