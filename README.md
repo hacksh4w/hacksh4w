@@ -58,4 +58,6 @@ oColor=white"/>
 </div>
   <br> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacksh4w&show_icons=true&locale=en" alt="hacksh4w" /></p>
-[My Holopin badges](https://holopin.io/@hacksh4w)
+
+### Mrinalini's holopin board:
+[![@hacksh4w's Holopin board](https://holopin.me/hacksh4w)](https://holopin.io/@hacksh4w)
