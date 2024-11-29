@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **Exciting Projects!**
 - 💬 Ask me about **Forms, Typescript & Person of Interest**
 - 📫 How to reach me **mrinalininairani.mec@gmail.com**
-- 📄 [My Resume](https://github.com/user-attachments/files/17952958/Mrinalini_Nair_Ani___RESUME.8.pdf)
+- 📄 [My Resume]([https://github.com/user-attachments/files/17952958/Mrinalini_Nair_Ani___RESUME.8.pdf](https://drive.google.com/file/d/1hziiM3HjBW3RngOuESN0OaSv-HVdW8Uy/view?usp=sharing))
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mrinalini-nair-ani/)
 
 <h2 align="left">Connect with me:</h2>
