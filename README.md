@@ -10,10 +10,8 @@
 - 🌱 I’m currently learning **Backend Development!**
 - 👯 I’m looking to collaborate on **Exciting Projects!**
 - 💬 Ask me about **Forms, Typescript & Person of Interest**
-- 📫 How to reach me **mrinalsnair@gmail.com**
-
-- 📄 [My Resume](https://github.com/hacksh4w/hacksh4w/files/13059774/Resume.-.Mrinalini.Nair.Ani.pdf)
-
+- 📫 How to reach me **mrinalininairani.mec@gmail.com**
+- 📄 [My Resume](https://github.com/user-attachments/files/17952958/Mrinalini_Nair_Ani___RESUME.8.pdf)
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mrinalini-nair-ani/)
 
 <h2 align="left">Connect with me:</h2>
